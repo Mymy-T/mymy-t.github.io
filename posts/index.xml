@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mymy T Site</title>
+    <link>https://mymy-t.github.io/posts/</link>
+    <description>Recent content in Posts on Mymy T Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 23:09:58 -0400</lastBuildDate>
+    <atom:link href="https://mymy-t.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://mymy-t.github.io/posts/hello/</link>
+      <pubDate>Sun, 18 May 2025 23:09:58 -0400</pubDate>
+      <guid>https://mymy-t.github.io/posts/hello/</guid>
+      <description>Hello there! This is a test post.&#xA;func hello(_ name: String) { print(&amp;#34;Hello, \(name)!&amp;#34;) } </description>
+    </item>
+  </channel>
+</rss>
